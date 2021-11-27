@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ???
 - 👩🏻‍💻 I want to get a job at Line, Kakao or other IT company.
 - 📫 How to reach me 
+- 개발 일지 및 알고리즘 문제 풀이 --> velog
 
 <!---
 JOOHEE56/JOOHEE56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
