@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @JOOHEE56
-- 👀 I’m interested in iOS and web, other things ...
-- 🌱 I’m currently learning algorithm, iOS, SSafy test
-- 💞️ I’m looking to collaborate on ???
-- 👩🏻‍💻 I want to get a job at Line, Kakao or other IT company.
-- 📫 How to reach me 
-- 개발 일지 및 알고리즘 문제 풀이 --> velog
+<img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
-<!---
-JOOHEE56/JOOHEE56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- * version of npm used
+* status of last build
+* number of downloads happen over period of time
+* license type -->
