@@ -2,6 +2,9 @@
 
 <h3 align="center">🛠️Teck Stack🛠️</h3>
 <p align="center">
+Techs that I've used at least once </br>
+</br>
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Adobe XD&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -20,9 +23,9 @@
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/>
+<img src="https://img.shields.io/badge/AdobeXD-EF2D5E?style=flat-square&logo=AdobeXD&logoColor=white"/>
 </p>
-
+</br>
 
 <h3 align="center">☁️Blog☁️</h3>
 <p align="center">
