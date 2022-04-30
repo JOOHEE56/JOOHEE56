@@ -30,10 +30,13 @@ Techs that I've used at least once </br>
 <h3 align="center">☁️Blog☁️</h3>
 <p align="center">
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
-</br>
-</br>
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%2323C8D2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+</br>
+</br>
+
+<p align="center">
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%2323C8D2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ </p>
 
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
 <!-- * version of npm used
