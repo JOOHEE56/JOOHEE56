@@ -27,7 +27,7 @@ Techs that I've used at least once </br>
 </p>
 </br>
 
-<h3 align="center">☁️Blog☁️</h3>
+<h3 align="center">☁️Study Blog☁️</h3>
 <p align="center">
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 </p>
