@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:B3EBFF,100:FBC2EB&height=150&section=header&text=Welcome&fontSize=50)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F5D488,100:F85488&height=150&section=header&text=Welcome&fontSize=50)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB330,100:FFFCCE&height=150&section=header&text=Welcome&fontSize=50)
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
