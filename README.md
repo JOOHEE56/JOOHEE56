@@ -26,7 +26,7 @@
 
 <h3 align="center">☁️Blog☁️</h3>
 <p align="center">
- <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/> <- Click to visit!</a> </br>
+ <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> </br>
 </p>
 </br>
 
