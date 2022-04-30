@@ -30,7 +30,7 @@ Techs that I've used at least once </br>
 <h3 align="center">☁️Study Blog☁️</h3>
 <p align="center">
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
- <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
  
 </p>
 </br>
