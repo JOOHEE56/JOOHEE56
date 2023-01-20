@@ -5,7 +5,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFF098,100:6FD6FF&height=120&section=header&%text=LeeJooHee&fontSize=40) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99C7F5,100:99C7F5&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=40)
 
-<h3 align="center">🛠️Teck Stack🛠️</h3>
+<h3>🛠️Teck Stack🛠️</h3>
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat&logo=C%2B%2B&logoColor=black"/>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
 </p> -->
 
-<p align="center">
+<p>
  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java"/> 
  <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B"/> 
  <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat-square&logo=SpringBoot"/> 
@@ -24,7 +24,7 @@
  <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma"/> 
 </p>
 
-<p align="center">
+<p>
  <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift"/> 
  <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS"/>
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity"/>
