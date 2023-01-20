@@ -20,6 +20,7 @@
  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java"/> 
  <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B"/> 
  <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat-square&logo=SpringBoot"/> 
+ <img src="https://img.shields.io/badge/JPA-FFFFFF?style=flat-square&logo=JPA"/>
  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=MySQL"/> 
  <img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat-square&logo=Jira"/> 
  <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma"/> 
@@ -30,6 +31,7 @@
  <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift"/> 
  <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS"/>
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity"/>
+ <img src="https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=MyBatis"/>
  <img src="https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=Redis"/>
  <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React"/>
  <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js"/>
