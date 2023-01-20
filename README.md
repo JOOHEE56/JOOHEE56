@@ -5,7 +5,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFF098,100:6FD6FF&height=120&section=header&%text=LeeJooHee&fontSize=40) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99C7F5,100:99C7F5&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=40)
 
-<h2>🛠️Teck Stack🛠️</h2>
+<h2 align="center">🛠️Teck Stack🛠️</h2>
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat&logo=C%2B%2B&logoColor=black"/>
@@ -38,6 +38,7 @@
  <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"/>
  <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/>
 </p>
+</br>
 
 <!-- <h3 align="center">🛠️Teck Stack🛠️</h3>
 <p align="center">
@@ -60,17 +61,15 @@
  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/
 </p> -->
 
-<!-- 
 <h3 align="center">☁️Study Blog☁️</h3>
 <p align="center">
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
- 
 </p>
 </br>
 </br>
 
-<h3 align="center">💻Algorithm💻</h3>
+<h3 align="center">🔥✅Algorithm💻</h3>
 <div align=center>
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
@@ -82,7 +81,7 @@
 <h3 align="center">👋🏻Visitors👋🏻</h3>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%2323C8D2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
- </p> -->
+ </p>
 
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
 <!-- * version of npm used
