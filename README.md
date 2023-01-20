@@ -12,29 +12,7 @@
 <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
 </p> -->
 
-<h3>🛠️Teck Stack🛠️</h3>
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> 
-</p>
-
-<p>
- <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
- <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
- <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> 
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
- <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/
-</p>
-
-<!-- <h3 align="center">🛠️Teck Stack🛠️</h3>
+<h3 align="center">🛠️Teck Stack🛠️</h3>
 <p align="center">
 <b>Strong : </b>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
@@ -56,7 +34,7 @@
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/
-</p> -->
+</p>
 
 <!-- 
 <h3 align="center">☁️Study Blog☁️</h3>
