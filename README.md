@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B3EBFF,100:FBC2EB&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50)
 
-<h2 align="center">🛠️Teck Stack🛠️</h2>
+<h1 align="center">🛠️Teck Stack🛠️</h1>
 <h3 align="center">Strong</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Adobe XD&logoColor=white"/> 
