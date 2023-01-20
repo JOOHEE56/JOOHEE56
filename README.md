@@ -4,7 +4,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee👋&fontSize=40) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFF098,100:6FD6FF&height=120&section=header&%text=LeeJooHee&fontSize=40)
 
-<!-- <h3 align="center">🛠️Teck Stack🛠️</h3>
+<h3 align="center">🛠️Teck Stack🛠️</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat&logo=C%2B%2B&logoColor=black"/>
@@ -12,9 +12,20 @@
 <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=MySQL&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat&logo=Jira&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
-</p> -->
+</p>
 
-<h3 align="center">🛠️Teck Stack🛠️</h3>
+<p align="center">
+ <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=Redis&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator&logoColor=white"/
+</p>
+
+<!-- <h3 align="center">🛠️Teck Stack🛠️</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
@@ -33,7 +44,7 @@
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/
-</p>
+</p> -->
 
 <!-- 
 <h3 align="center">☁️Study Blog☁️</h3>
