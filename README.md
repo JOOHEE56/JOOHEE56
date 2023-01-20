@@ -3,8 +3,8 @@
 <h1 align="center">🛠️Teck Stack🛠️</h3>
 </br>
 
+<h3 align="center">Strong</h3></br>
 <p align="center">
-<b>Strong</b></br></br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Adobe XD&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
