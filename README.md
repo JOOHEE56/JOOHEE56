@@ -5,24 +5,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFF098,100:6FD6FF&height=120&section=header&%text=LeeJooHee&fontSize=40)
 
 <h3 align="center">🛠️Teck Stack🛠️</h3>
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat&logo=C%2B%2B&logoColor=black"/>
 <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat&logo=SpringBoot&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=MySQL&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat&logo=Jira&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
+</p> -->
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java"/> 
+ <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B"/> 
+ <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat-square&logo=SpringBoot"/> 
+ <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=MySQL"/> 
+ <img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat-square&logo=Jira"/> 
+ <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma"/> 
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift&logoColor=white"/> 
- <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=white"/>
- <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=Redis&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab&logoColor=white"/>
- <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator&logoColor=white"/
+ <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift"/> 
+ <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS"/>
+ <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity"/>
+ <img src="https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=Redis"/>
+ <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React"/>
+ <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js"/>
+ <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"/>
+ <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/>
 </p>
 
 <!-- <h3 align="center">🛠️Teck Stack🛠️</h3>
