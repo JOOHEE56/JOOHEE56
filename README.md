@@ -2,7 +2,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FECC47,100:5A8D26&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D0DE41,100:89C64D&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee👋&fontSize=50)
 
-<h3 align="center">🛠️Teck Stack🛠️</h3>
+<!-- <h3 align="center">🛠️Teck Stack🛠️</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat&logo=C%2B%2B&logoColor=black"/>
@@ -10,10 +10,35 @@
 <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=MySQL&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat&logo=Jira&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
+</p> -->
+
+<h3>🛠️Teck Stack🛠️</h3>
+<p>
+<b>Strong : </b>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> 
+</p>
+
+<p>
+ <b>Knowledgeable : </b>
+ <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/
 </p>
 
 <!-- <h3 align="center">🛠️Teck Stack🛠️</h3>
 <p align="center">
+<b>Strong : </b>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
@@ -23,6 +48,7 @@
 </p>
 
 <p align="center">
+ <b>Knowledgeable : </b>
  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
