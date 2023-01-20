@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
 </p> -->
 
-<p>
+<p align="center">
  <b>Strong </b>
  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java"/> 
  <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B"/> 
@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma"/> 
 </p>
 
-<p>
+<p align="center">
  <b>Techs that I've used at least once</b>
  <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift"/> 
  <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS"/>
