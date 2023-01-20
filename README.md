@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
 </p> -->
 
-<p align="center">
+<p>
  <b>Strong </b>
  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java"/> 
  <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B"/> 
