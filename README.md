@@ -39,6 +39,11 @@
  <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"/>
  <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/>
 </p>
+
+<p align="right">
+ <b>updated(23/01/20)</b>
+</p>
+
 </br>
 
 <!-- 
@@ -76,9 +81,6 @@
  </p>
 </br>
 
-<p align="right">
- <b>updated(23/01/20)</b>
-</p>
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
 <!-- * version of npm used
 * status of last build
