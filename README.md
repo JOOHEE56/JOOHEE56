@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B3EBFF,100:FBC2EB&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50)
 
-<h3 align="center">🛠️Teck Stack🛠️</h3>
-<p align="center">
+<h3>🛠️Teck Stack🛠️</h3>
+<p>
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat&logo=C%2B%2B&logoColor=black"/>
 <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat&logo=SpringBoot&logoColor=black"/>
@@ -9,6 +9,16 @@
 <img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat&logo=Jira&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
 </p>
+
+<!-- <h3 align="center">🛠️Teck Stack🛠️</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black"/> 
+<img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat&logo=C%2B%2B&logoColor=black"/>
+<img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat&logo=SpringBoot&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=MySQL&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat&logo=Jira&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
+</p> -->
 
 
 <!-- <p>
