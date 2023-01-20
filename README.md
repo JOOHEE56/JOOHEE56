@@ -41,7 +41,7 @@
 </p>
 
 <p align="right">
- <b>updated(23/01/20)</b>
+ <b>(updated-23/01/20)</b>
 </p>
 
 </br>
