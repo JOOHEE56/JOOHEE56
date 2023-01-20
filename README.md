@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B3EBFF,100:FBC2EB&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FECC47,100:5A8D26&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F3B900,100:508104&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D0DE41,100:89C64D&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50)
 
 <h3>🛠️Teck Stack🛠️</h3>
 <p>
