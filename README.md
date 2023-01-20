@@ -69,7 +69,7 @@
 </br>
 </br>
 
-<h3 align="center">🔥✅Algorithm💻</h3>
+<h3 align="center">🔥✅Algorithm💻🔥</h3>
 <div align=center>
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
@@ -82,7 +82,11 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%2323C8D2&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  </p>
+</br>
 
+<p align="right">
+ <b>updated(23/01/20)</b>
+</p>
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
 <!-- * version of npm used
 * status of last build
