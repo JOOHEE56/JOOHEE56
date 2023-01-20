@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B3EBFF,100:FBC2EB&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50)
 
-<h3 align="center">🛠️Teck Stack🛠️</h3>
+<h1 align="center">🛠️Teck Stack🛠️</h3>
 </br>
 
 <p align="center">
