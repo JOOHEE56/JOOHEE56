@@ -6,7 +6,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99C7F5,100:99C7F5&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40)
 <br>
 
-<h3 align="center">🛠️Teck Stack🛠️</h3>
+<h2 align="center">🛠️Teck Stack🛠️</h2>
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat&logo=C%2B%2B&logoColor=black"/>
