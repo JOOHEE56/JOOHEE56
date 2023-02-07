@@ -29,13 +29,13 @@
 
 <p align="center">
  <b>Knowledgeable</b>
+ <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React"/>
+ <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js"/>
  <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift"/> 
  <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS"/>
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity"/>
  <img src="https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=MyBatis"/>
  <img src="https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=Redis"/>
- <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React"/>
- <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js"/>
  <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"/>
  <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/>
 </p>
