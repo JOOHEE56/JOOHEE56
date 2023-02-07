@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
- <b>Techs that I've used at least once</b>
+ <b>Knowledgeable</b>
  <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift"/> 
  <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS"/>
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity"/>
