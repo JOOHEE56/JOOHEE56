@@ -66,7 +66,7 @@
 </br>
 </br>
 
-<h3 align="center">🖥️ Algorithm 💡✅</h3>
+<h3 align="center">💡 Algorithm ✅</h3>
 <div align=center>
  
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96) -->
