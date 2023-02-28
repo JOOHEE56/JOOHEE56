@@ -26,7 +26,7 @@
  <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma"/> 
 </p>
 
-<p>
+<p align="center">
  <b>Knowledgeable</b>
  <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B"/> 
  <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React"/>
