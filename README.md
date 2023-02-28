@@ -58,7 +58,7 @@
  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/
 </p> -->
 
-<h2 align="center">☁️ Study Blog ☁️</h2>
+<h3 align="center">☁️ Study Blog ☁️</h3>
 <p align="center">
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
@@ -85,7 +85,7 @@
 </br>
 </br>
 
-<h3 align="center">⬇️ Projects ⬇️</h3>
+<!-- <h3 align="center">⬇️ Projects ⬇️</h3> -->
 
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> -->
 <!-- * version of npm used
