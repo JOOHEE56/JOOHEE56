@@ -17,7 +17,7 @@
 </p> -->
 
 <p align="center">
- <b>Strong </b>
+ <b>[ Strong ]</b></br>
  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java"/> 
  <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat-square&logo=SpringBoot"/> 
  <img src="https://img.shields.io/badge/JPA-FFFFFF?style=flat-square&logo=JPA"/>
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
- <b>Knowledgeable</b>
+ <b>[ Experience ]</b></br>
  <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B"/> 
  <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React"/>
  <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js"/>
