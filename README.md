@@ -40,9 +40,9 @@
  <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/>
 </p>
 
-<p align="right">
+<!-- <p align="right">
  <b>(updated-23/01/20)</b>
-</p>
+</p> -->
 
 </br>
 
