@@ -25,6 +25,7 @@
  <img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat-square&logo=Jira"/> 
  <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma"/> 
 </p>
+</br>
 
 <p align="center">
  <b>[ Experience ]</b></br>
