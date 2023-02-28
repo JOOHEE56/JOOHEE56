@@ -39,6 +39,7 @@
  <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"/>
  <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/>
 </p>
+</br>
 
 <!-- <p align="right">
  <b>(updated-23/01/20)</b>
