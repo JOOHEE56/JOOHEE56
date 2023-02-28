@@ -16,10 +16,9 @@
 <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat&logo=Figma&logoColor=black"/> 
 </p> -->
 
-<p>
+<p align="center">
  <b>Strong </b>
  <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=Java"/> 
- <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B"/> 
  <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat-square&logo=SpringBoot"/> 
  <img src="https://img.shields.io/badge/JPA-FFFFFF?style=flat-square&logo=JPA"/>
  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=MySQL"/> 
@@ -29,6 +28,7 @@
 
 <p>
  <b>Knowledgeable</b>
+ <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B"/> 
  <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React"/>
  <img src="https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js"/>
  <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift"/> 
