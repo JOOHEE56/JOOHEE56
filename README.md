@@ -31,7 +31,7 @@
  <h4>[ Experience ]</h4>
 
  ![C++](https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B&logoColor=green)
- ![React](https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React)
+ ![React](https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React.js)
  ![Vue.js](https://img.shields.io/badge/Vue.js-FFFFFF?style=flat-square&logo=Vue.js)
  ![Swift](https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift)
  ![iOS](https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=464445)
