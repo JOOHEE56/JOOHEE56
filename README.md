@@ -39,7 +39,6 @@
  ![MyBatis](https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=MyBatis)
  ![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=Redis)
  ![GitLab](https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab)
- <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"/>
  <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/>
 
 </br>
