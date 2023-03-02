@@ -45,34 +45,20 @@
  <b>(updated-23/01/20)</b>
 </p> -->
 
-</br>
-
-<!-- 
-<p align="center">
- <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
- <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
- <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
- <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/
-</p> -->
-
-<h2 align="center">💡 Algorithm 💡</h2>
-<div align=center>
- 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
-<img src="http://mazandi.herokuapp.com/api?handle=doohui96&theme=warm"/>
-</div>
-</br>
-</br>
-
 <h3 align="center">☁️ Study Blog ☁️</h3>
 <p align="center">
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
+</br>
+</br>
+
+<h3 align="center">💡 Algorithm 💡</h3>
+<div align=center>
+ 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
+<img src="http://mazandi.herokuapp.com/api?handle=doohui96&theme=warm"/>
+</div>
 </br>
 </br>
 
