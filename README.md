@@ -6,7 +6,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99C7F5,100:99C7F5&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40)
 <br> -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99D31B,100:92DE8B&height=120&section=header&)
-<br>
 
 <div align=center>
 <!--  🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
