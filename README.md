@@ -80,7 +80,7 @@
 </br>
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=J00HUI&show_icons=true&theme=transparent&icon_color=BAD162&title_color=BAD162">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=J00HUI&show_icons=true&theme=transparent&icon_color=BAD162&title_color=BAD162"> -->
 </br>
 </br>
 </br>
