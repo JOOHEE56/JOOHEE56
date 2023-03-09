@@ -65,10 +65,10 @@
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-BAD162?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
-</br>
-</br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=wngml56&theme=vue)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wngml56&postId=&theme-vue)](https://wngml56.tistory.com/)
+
+</br>
 </br>
 
 <h3 align="center">🌿 Algorithm 🌿</h3>
