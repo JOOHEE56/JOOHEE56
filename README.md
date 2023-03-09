@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wngml56&postId=&theme=vue)](https://wngml56.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wngml56&postId=&theme=)](https://wngml56.tistory.com/)
 
 </br>
 </br>
