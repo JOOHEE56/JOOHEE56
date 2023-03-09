@@ -68,6 +68,9 @@
 </br>
 </br>
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=wngml56&theme=vue)](https://github.com/loosie/github-readme-tistory-card)
+</br>
+
 <h3 align="center">🌿 Algorithm 🌿</h3>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
