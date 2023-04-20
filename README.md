@@ -8,7 +8,7 @@
 <div align=center>
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
  
-<h3> 💡 SKILL 💡</h3>
+<h2> 💡 SKILL 💡</h2>
  
  <h4>[ Strong ]</h4>
 
