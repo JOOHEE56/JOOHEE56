@@ -59,7 +59,6 @@
 <!-- <p align="right">
  <b>(updated-23/01/20)</b>
 </p> -->
-</br>
 
 <h3 align="center">☁️ Study Blog ☁️</h3>
 <p align="center">
