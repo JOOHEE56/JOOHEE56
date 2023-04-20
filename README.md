@@ -41,7 +41,7 @@
  ![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=Redis)
  ![GitLab](https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab)
  <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/> </br> </br>
-<!-- --- -->
+---
 
 
 <!-- <p align="center">
@@ -66,9 +66,9 @@
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wngml56&postId=&theme=)](https://wngml56.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wngml56&postId=&theme=)](https://wngml56.tistory.com/) </br></br>
+---
 
-</br>
 
 <h3 align="center">📊 Algorithm 📊</h3>
 
