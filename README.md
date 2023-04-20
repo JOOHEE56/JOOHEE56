@@ -41,7 +41,7 @@
  ![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=Redis)
  ![GitLab](https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab)
  <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/>
-
+---
  
 </br>
 
@@ -62,7 +62,6 @@
  <b>(updated-23/01/20)</b>
 </p> -->
 
----
 
 <h3 align="center">☁️ Study Blog ☁️</h3>
 <p align="center">
