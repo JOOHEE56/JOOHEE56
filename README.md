@@ -40,7 +40,7 @@
  ![MyBatis](https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=MyBatis)
  ![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=Redis)
  ![GitLab](https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab)
- <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/> </br> </br>
+ <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"/> </br> </br></br>
 ---
 
 
@@ -59,6 +59,7 @@
 <!-- <p align="right">
  <b>(updated-23/01/20)</b>
 </p> -->
+</br>
 
 <h3 align="center">☁️ Study Blog ☁️</h3>
 <p align="center">
@@ -67,6 +68,7 @@
 </p>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wngml56&postId=&theme=)](https://wngml56.tistory.com/) </br></br>
+</br>
 
 
 <h3 align="center">📊 Algorithm 📊</h3>
