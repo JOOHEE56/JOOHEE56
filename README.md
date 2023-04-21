@@ -69,8 +69,9 @@
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wngml56&postId=&theme=)](https://wngml56.tistory.com/) </br></br>
 </br>
+---
 
-
+</br>
 <h3 align="center">📊 Algorithm 📊</h3>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
