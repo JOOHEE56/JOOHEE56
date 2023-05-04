@@ -3,7 +3,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D0DE41,100:89C64D&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee👋&fontSize=40) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee👋&fontSize=40) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFF098,100:99C7F5&height=120&section=header&%text=LeeJooHee&fontSize=40) -->
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:A7D129&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40)
+<!-- A3DE83 --> 
+<!-- A7D129 -->
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:A3DE83&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40)
 <br>
 <!-- <div align=center> -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
@@ -137,7 +139,8 @@
 
 <!-- 23A7D129 -->
 <!-- 23D5EEFF -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%23A7D129&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- 23A3DE83 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%23A3DE83&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%2392DE8B&title_bg=%2399D31B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
