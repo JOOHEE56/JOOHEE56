@@ -10,7 +10,7 @@
  
 <div align="center">
 
-<h2> 🏫 Eucation & Tech stack 🎓</h2>
+<h2> 🏫 Education & Tech stack 🎓</h2>
 
 <!--
 <details>
