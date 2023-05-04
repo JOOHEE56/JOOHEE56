@@ -115,7 +115,9 @@
 <p>
 <!-- <h3 align="center">☁️ Study Blog ☁️</h3> -->
 <!-- <p align="center"> -->
- <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-BAD162?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+<!-- D5EEFF --> 
+<!-- BAD162 -->
+ <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-8DC6FF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
 
