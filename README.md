@@ -1,7 +1,3 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B3EBFF,100:FBC2EB&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50) -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FECC47,100:5A8D26&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee&fontSize=50) -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D0DE41,100:89C64D&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee👋&fontSize=40) -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&height=120&section=header&%text=Hi&nbsp;I'm&nbsp;Joohee&nbsp;lee👋&fontSize=40) -->
  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFF098,100:99C7F5&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40) 
 <!-- A3DE83 --> 
 <!-- A7D129 -->
