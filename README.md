@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary> A Break Period <img src="https://img.shields.io/badge/2021.02~2021.12-FFFFFF?style=flat-square&logo="/></summary> 
+<summary>Break Period <img src="https://img.shields.io/badge/2021.02~2021.12-FFFFFF?style=flat-square&logo="/></summary> 
 <div markdown="1">
  </br>
 
