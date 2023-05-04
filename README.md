@@ -111,7 +111,6 @@
 <!-- <p align="right">
  <b>(updated-23/01/20)</b>
 </p> -->
-</br>
  
 <h3> ☁️ Study Blog ☁️ </h3>
 <p>
@@ -124,7 +123,7 @@
 </p>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wngml56&postId=&theme=)](https://wngml56.tistory.com/) </br></br>
-</br>
+
 <h3> ⏱️ Algorithm ⏱️</h3>
 <!-- <h3 align="center">📊 Algorithm 📊</h3> -->
 
@@ -139,7 +138,7 @@
 <!-- 23A7D129 -->
 <!-- 23D5EEFF -->
 <!-- 23A3DE83 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%23A3DE83&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%23A7D129&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%2392DE8B&title_bg=%2399D31B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
