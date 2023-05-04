@@ -10,7 +10,7 @@
  
 <div align="center">
 
-<h2> 🏫 Education 🎓</h2>
+<h3> 🏫 Education 🎓</h3>
 
 <!--
 <details>
