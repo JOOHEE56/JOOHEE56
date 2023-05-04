@@ -5,7 +5,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:BFF098,100:99C7F5&height=120&section=header&%text=LeeJooHee&fontSize=40) -->
 <!-- A3DE83 --> 
 <!-- A7D129 -->
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:A3DE83&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:A7D129,100:A3DE83&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40)
 <br>
 <!-- <div align=center> -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
