@@ -110,19 +110,19 @@
  <b>(updated-23/01/20)</b>
 </p> -->
 </br>
-
+ 
 <h3> ☁️ Study Blog ☁️ </h3>
 <p>
 <!-- <h3 align="center">☁️ Study Blog ☁️</h3> -->
 <!-- <p align="center"> -->
- <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-BAD162?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+ 
+<!-- BAD162 -->
+ <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-8DC6FF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wngml56&postId=&theme=)](https://wngml56.tistory.com/) </br></br>
 </br>
-
-
 </br>
 <h3> ⏱️ Algorithm ⏱️</h3>
 <!-- <h3 align="center">📊 Algorithm 📊</h3> -->
@@ -133,7 +133,6 @@
 </br>
 </br>
 </br>
-
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=J00HUI&show_icons=true&theme=transparent&icon_color=BAD162&title_color=BAD162"> -->
 
 <!-- 23A3DE83 -->
