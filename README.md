@@ -37,7 +37,7 @@
 <div markdown="1">
  </br>
 
- ![C++](https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B&logoColor=green) ![iOS](https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=464445) ![Algorithm](https://img.shields.io/badge/Algorithm-FFFFFF?style=flat-square&logo=Algorithm)
+ ![C++](https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B&logoColor=green) ![iOS](https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=464445) ![Algorithm](https://img.shields.io/badge/Algorithm-FFFFFF?style=flat-square&logo=Algorithm) ![CS](https://img.shields.io/badge/DataStructure-FFFFFF?style=flat-square&logo=bookstack) 
  
 </div>
 </details>
