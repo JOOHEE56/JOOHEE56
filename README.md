@@ -43,7 +43,7 @@
 </details>
 
 <details>
-<summary> Samsung SW Academy For Youth (SSAFY), 7th <img src="https://img.shields.io/badge/2022.02~2022.12-FFFFFF?style=flat-square&logo="/></summary> 
+<summary> Samsung SW Academy For Youth (SSAFY), 7th <img src="https://img.shields.io/badge/2022.01~2022.12-FFFFFF?style=flat-square&logo="/></summary> 
 <div markdown="1">
  </br>
 
