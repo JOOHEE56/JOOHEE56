@@ -8,7 +8,7 @@
  
 <div align="center">
 
-<h2> 🏫 Education & Tech stack 🎓</h2>
+<h2> 🏫 Education & Tech stack 🌿</h2>
 
 <!--
 <details>
