@@ -117,7 +117,7 @@
 <!-- BAD162 -->
 <!-- 6EBAFF /파랑 -->
 <!-- D4E3FB -->
- <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+ <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-D4E3FB?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
 
