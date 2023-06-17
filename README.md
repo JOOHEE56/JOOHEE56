@@ -2,7 +2,7 @@
 <!-- A3DE83 --> 
 <!-- A7D129 -->
 <!-- 81B214 -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DE83,100:dff9ba&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40) -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:dff9ba,100:A3DE83&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4E3FB,100:6EBAFF&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=30) 
 <!-- <div align=center> -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
