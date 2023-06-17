@@ -2,14 +2,14 @@
 <!-- A3DE83 --> 
 <!-- A7D129 -->
 <!-- 81B214 -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:81B214,100:A3DE83&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DE83,100:dff9ba&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=30) 
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DE83,100:dff9ba&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7FC6FE,100:D5EEFF&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=30) 
 <!-- <div align=center> -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
  
 <div align="center">
 
-<h2> 🏫 Education & Tech stack 🌿</h2>
+<h2> 🏫 Education & Tech stack 🛠️</h2>
 
 <!--
 <details>
@@ -115,7 +115,7 @@
 <!-- <p align="center"> -->
  
 <!-- BAD162 -->
- <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-BAD162?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+ <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7FC6FE?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
 
@@ -138,7 +138,8 @@
 <!-- 23A7D129 -->
 <!-- 23D5EEFF -->
 <!-- 23A3DE83 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%23A7D129&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- 23555555 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%23D5EEFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%2392DE8B&title_bg=%2399D31B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
