@@ -3,7 +3,7 @@
 <!-- A7D129 -->
 <!-- 81B214 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:A3DE83,100:dff9ba&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=40) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7FC6FE,100:D5EEFF&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=30) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4E3FB,100:6EBAFF&height=120&section=header&%text=Hi!&nbsp;I'm&nbsp;JOOHEE&nbsp;LEE&fontSize=30) 
 <!-- <div align=center> -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
  
@@ -115,7 +115,9 @@
 <!-- <p align="center"> -->
  
 <!-- BAD162 -->
- <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7FC6FE?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+<!-- 6EBAFF /파랑 -->
+<!-- D4E3FB -->
+ <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
 
@@ -124,7 +126,7 @@
 
 </br></br>
 
-<h3> ⏱️ Algorithm ⏱️</h3>
+<h3> ⏱️ Algorithm ⏱️ </h3>
 <!-- <h3 align="center">📊 Algorithm 📊</h3> -->
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96) -->
@@ -135,11 +137,10 @@
 </br>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=J00HUI&show_icons=true&theme=transparent&icon_color=BAD162&title_color=BAD162"> -->
 
-<!-- 23A7D129 -->
-<!-- 23D5EEFF -->
-<!-- 23A3DE83 -->
-<!-- 23555555 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%23D5EEFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D4E3FB&title_bg=%236EBAFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D4E3FB&title_bg=%236EBAFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 </div>
 
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ00HUI&count_bg=%2392DE8B&title_bg=%2399D31B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
