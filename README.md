@@ -1,6 +1,6 @@
  <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4E3FB,100:6EBAFF&height=120&section=header&%text=JooHee&nbsp;Lee's&nbsp;Github&fontSize=35) -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
- 
+## Hi there 👋🏻 
 ## ⏱️ History & Tech Stack 🛠️
 
 <!--
