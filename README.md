@@ -3,17 +3,17 @@
 
 <div align="center">
    
-## Hi there 👋🏻
-이주희(LeeJooHee) *Backend Developer* 
+## Hi there 👋🏻 
+이주희(LeeJooHee) *Backend Developer*   
+   
+<img src="https://img.shields.io/badge/doohui96@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"> 
 
-
-<img src="https://img.shields.io/badge/doohui96@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">  
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohee56&show_icons=true&theme=default)
 -->
 </br>
 </br>
- 
+
 ## 🏫 Education & Tech Stack 🛠️
 
 <!--
