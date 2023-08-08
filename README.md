@@ -110,7 +110,7 @@
 </p> -->
 </br>
 
-<h3> 🧠 Study Blog 🧠 </h3>
+<h3> 🪄 Study Blog 🪄 </h3>
 <p>
 <!-- <h3 align="center">☁️ Study Blog ☁️</h3> -->
 <!-- <p align="center"> -->
