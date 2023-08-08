@@ -15,7 +15,7 @@
 </br>
 </br>
 
-## 🏫 Education & Tech Stack 🛠️
+### 🏫 Education & Tech Stack 🛠️
 
 <!--
 <details>
