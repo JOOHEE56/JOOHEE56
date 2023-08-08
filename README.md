@@ -13,6 +13,7 @@
 -->
 </br>
 </br>
+</br>
 
 ## 🏫 Education & Tech Stack 🛠️
 
@@ -130,7 +131,7 @@
 </br>
 </br>
   
-### 🪄Study Blog🪄
+## 🪄Study Blog🪄
 <p>
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
@@ -141,7 +142,7 @@
 </br>
 </br>
 
-### 🔒Algorithm🗝️
+## 🔒Algorithm🗝️
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=doohui96&theme=warm"/>  -->
