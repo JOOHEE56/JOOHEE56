@@ -1,13 +1,16 @@
  <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4E3FB,100:6EBAFF&height=120&section=header&%text=JooHee&nbsp;Lee's&nbsp;Github&fontSize=35) -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
- 
+
+<div align="center">
+   
 ## Hi there 👋🏻
 이주희(LeeJooHee) *Backend Developer* 
 
+
 <img src="https://img.shields.io/badge/doohui96@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">  
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohee56&show_icons=true&theme=default)
-
+-->
 </br>
 </br>
  
@@ -126,8 +129,6 @@
 </br>
 </br>
 </br>
-
- <div align="center">
   
 ### 🪄Study Blog🪄
 <p>
