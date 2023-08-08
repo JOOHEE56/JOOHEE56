@@ -1,8 +1,7 @@
  <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4E3FB,100:6EBAFF&height=120&section=header&%text=JooHee&nbsp;Lee's&nbsp;Github&fontSize=35) -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
 
-<div align="center">
- 
+## Hi there 👋🏻
 ## ⏱️ History & Tech Stack 🛠️
 
 <!--
@@ -84,4 +83,3 @@
 </br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236EBAFF&title_bg=%23D4E3FB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-</div>
