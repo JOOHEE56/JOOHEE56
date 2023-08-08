@@ -108,8 +108,9 @@
 <!-- <p align="right">
  <b>(updated-23/01/20)</b>
 </p> -->
- 
-<h3> ☁️ Study Blog ☁️ </h3>
+</br>
+
+<h3> 🧠 Study Blog 🧠 </h3>
 <p>
 <!-- <h3 align="center">☁️ Study Blog ☁️</h3> -->
 <!-- <p align="center"> -->
