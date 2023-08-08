@@ -22,7 +22,7 @@
 -->
 
 <details>
-<summary>Seoul Women's Univ, Department of Digital Media <img src="https://img.shields.io/badge/2018.03~2021.02-FFFFFF?style=flat-square&logo="/></summary> 
+<summary> Seoul Women's Univ, Department of Digital Media <img src="https://img.shields.io/badge/2018.03~2021.02-FFFFFF?style=flat-square&logo="/></summary> 
 <div markdown="1">
  </br>
  
@@ -126,8 +126,7 @@
 
 </br></br>
 
-<h3> ⚙️ Algorithm ⚙️ </h3>
-<!-- <h3 align="center">📊 Algorithm 📊</h3> -->
+<h3> 🔒 Algorithm 🗝️ </h3>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=doohui96&theme=warm"/>  -->
