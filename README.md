@@ -4,7 +4,7 @@
 <div align="center">
    
 ## Hi there 👋🏻 
-이주희(LeeJooHee) *Backend Developer*   
+이주희(LeeJooHee) *Backend Developer*    
    
 <img src="https://img.shields.io/badge/doohui96@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"> 
 
