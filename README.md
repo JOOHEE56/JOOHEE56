@@ -1,7 +1,5 @@
  <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4E3FB,100:6EBAFF&height=120&section=header&%text=JooHee&nbsp;Lee's&nbsp;Github&fontSize=35) -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
-
-<div align="center">
  
 ## Hi there 👋🏻
 이주희(LeeJooHee) *Backend Developer* 
@@ -13,7 +11,7 @@
 </br>
 </br>
  
-### 🏫 Education & Tech Stack 🛠️
+## 🏫 Education & Tech Stack 🛠️
 
 <!--
 <details>
@@ -129,7 +127,8 @@
 </br>
 </br>
 
- 
+ <div align="center">
+  
 ### 🪄Study Blog🪄
 <p>
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
