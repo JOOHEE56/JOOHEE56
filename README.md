@@ -2,13 +2,15 @@
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
 
 <div align="center">
-   
+ 
+<!--   
 ## Hi there 👋🏻 
 *Backend Developer* &nbsp; <img src="https://img.shields.io/badge/doohui96@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"> 
 
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohee56&show_icons=true&theme=default)
 -->
+
 </br>
 
 ### 🏫 Education & Tech Stack 🛠️
