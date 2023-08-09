@@ -13,7 +13,7 @@
 
 </br>
 
-## 💻 Education & Tech Stack 🛠️
+## 💻 History & Tech Stack 🛠️
 
 <!--
 <details>
