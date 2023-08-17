@@ -12,7 +12,7 @@
 
 </br>
 
-## History⏱️ & Tech Stack 🛠️
+## History⏱️ & Tech Stack🛠️
 
 <!--
 <details>
