@@ -1,7 +1,6 @@
  <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4E3FB,100:6EBAFF&height=120&section=header&%text=JooHee&nbsp;Lee's&nbsp;Github&fontSize=35) -->
 <!--  🌊🖥️💻🐾👩🏻‍💻👨🏻‍💻🧑🏻‍💻💪🏻🙌🏻👋🏻🎮🔨⛏️🛠️🌐 -->
 
-<div align="center">
  
 <!--   
 ## Hi there 👋🏻 
@@ -13,7 +12,7 @@
 
 </br>
 
-## 💻 History & Tech Stack 🛠️
+## History⏱️ & Tech Stack 🛠️
 
 <!--
 <details>
@@ -129,7 +128,7 @@
 </br>
 </br>
   
-### 🧠 Study Blog 🧠
+## Study Blog🧠
 <p>
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
@@ -140,7 +139,7 @@
 </br>
 </br>
 
-### ⏱️ Algorithm ⏱️
+## Algorithm🗝️
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=doohui96&theme=warm"/>  -->
@@ -150,4 +149,3 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236EBAFF&title_bg=%23D4E3FB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-</div>
