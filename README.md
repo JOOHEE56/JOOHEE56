@@ -13,7 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohee56&show_icons=true&theme=default)
 -->
 
-## History & Tech Stack 
+## History⏱️ & Tech Stack 🖥️
 
 <div align="left">
  
@@ -80,7 +80,7 @@
 </div>
 </details>
 
-<details>
+<details open>
 <summary> Samsung SW Academy For Youth (SSAFY), 7th<img src="https://img.shields.io/badge/2022.01~2022.12-FFFFFF?style=flat-square&logo="/></summary> 
 <div markdown="1">
  </br>
@@ -105,11 +105,6 @@
   <td>
    <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma">
   </td>
- </tr>
-</table>
-
-<table>
- <tr>
   <td>
    <img src="https://img.shields.io/badge/React.js-FFFFFF?style=flat-square&logo=React">
   </td>
@@ -124,7 +119,6 @@
   </td>
  </tr>
 </table>
-
 </div>
 </details>
 </br>
@@ -133,7 +127,7 @@
 
 </div>
   
-### Study Blog
+### 🌐 Study Blog 🌐
 <p>
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
@@ -144,8 +138,9 @@
 </br>
 </br>
 
-### Algorithm
+<!-- 🌊💭ℹ️🆗 -->
 
+### 🐾 Solved.ac 🐾
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=doohui96&theme=warm"/>  -->
 </br>
