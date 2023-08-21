@@ -15,6 +15,8 @@
 
 ## History & Tech Stack 
 
+<div align="left">
+ 
 <!--
 <details>
 <summary>버전 정보</summary>
@@ -128,6 +130,8 @@
 </br>
 </br>
 </br>
+
+</div>
   
 ### Study Blog
 <p>
