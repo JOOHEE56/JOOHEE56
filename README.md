@@ -37,7 +37,7 @@
    <img src="https://img.shields.io/badge/Swift-FFFFFF?style=flat-square&logo=Swift">
    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=787878">
    <img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator">
-   <img src="https://img.shields.io/badge/ComputerScience-FFFFFF?style=flat-square&logo=bookstack">
+   <img src="https://img.shields.io/badge/ComputerScience-FFFFFF?style=flat-square&logo=">
 
 
 </div>
@@ -51,7 +51,7 @@
    <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B&logoColor=green">
    <img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=464445">
    <img src="https://img.shields.io/badge/Algorithm-FFFFFF?style=flat-square&logo=Algorithm">
-   <img src="https://img.shields.io/badge/DataStructure-FFFFFF?style=flat-square&logo=bookstack">
+   <img src="https://img.shields.io/badge/DataStructure-FFFFFF?style=flat-square&logo=">
  
 </div>
 </details>
