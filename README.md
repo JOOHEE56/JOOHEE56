@@ -28,7 +28,7 @@
 -->
 
 <details>
-<summary> Seoul Women's Univ, Department of Digital Media <img src="https://img.shields.io/badge/2018.03~2021.02-FFFFFF?style=flat-square&logo="/></summary> 
+<summary> Seoul Women's Univ, Digital Media <img src="https://img.shields.io/badge/2018.03~2021.02-FFFFFF?style=flat-square&logo="/></summary> 
 <div markdown="1">
 </br>
 
