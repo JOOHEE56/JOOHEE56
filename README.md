@@ -28,7 +28,7 @@
 -->
 
 <details>
-<summary>  Seoul Women's Univ, Department of Digital Media<img src="https://img.shields.io/badge/2018.03~2021.02-FFFFFF?style=flat-square&logo="/></summary> 
+<summary> <img src="https://img.shields.io/badge/2018.03~2021.02-FFFFFF?style=flat-square&logo="/>  Seoul Women's Univ, Department of Digital Media</summary> 
 <div markdown="1">
 </br>
 
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary> Break Period<img src="https://img.shields.io/badge/2021.02~2021.12-FFFFFF?style=flat-square&logo="/></summary> 
+<summary><img src="https://img.shields.io/badge/2021.02~2021.12-FFFFFF?style=flat-square&logo="/> Break Period</summary> 
 <div markdown="1">
  </br>
 
@@ -55,7 +55,7 @@
 </details>
 
 <details open>
-<summary> Samsung SW Academy For Youth (SSAFY), 7th<img src="https://img.shields.io/badge/2022.01~2022.12-FFFFFF?style=flat-square&logo="/></summary> 
+<summary><img src="https://img.shields.io/badge/2022.01~2022.12-FFFFFF?style=flat-square&logo="/> Samsung SW Academy For Youth (SSAFY), 7th</summary> 
 <div markdown="1">
  </br>
 
