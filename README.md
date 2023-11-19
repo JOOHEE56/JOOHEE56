@@ -49,14 +49,12 @@
  </tr>
 </table>
 </br>
-</br>
  
 ## Study Record 
 <p>
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
 </p>
-</br>
 </br>
 
 <!-- 🌊💭ℹ️🆗 -->
