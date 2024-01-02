@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohee56&show_icons=true&theme=default)
 -->
 
-## Period 
+## Experience 🎓
 <!--  
 <details>
 <summary>버전 정보</summary>
@@ -24,7 +24,7 @@
 </br>
 </div>
 
-## Tech Stack
+## Tech Stack 💻
 <table>
  <tr>
   <td>Backend</td>
@@ -49,7 +49,7 @@
 </table>
 </br>
  
-## Study Record 
+## Record 🗂️
 <p>
  <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
@@ -58,7 +58,7 @@
 
 <!-- 🌊💭ℹ️🆗 -->
 
-## Algorithm
+## Algorithm 🔐
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=doohui96&theme=warm"/>  -->
 </br>
