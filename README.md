@@ -6,22 +6,14 @@
 -->
 
 ## Education 
-<!--  
-<details>
-<summary>버전 정보</summary>
-<div markdown="1">
-<img src="https://user-images.githubusercontent.com/83942393/195986092-88c4b141-b69c-4277-ba58-5ea8285d00b4.png" width="50%" >
-</div>
-</details>
-</br>
--->
-
-<div align="left">
- 
 * Seoul Women's Univ, Digital Media <img src="https://img.shields.io/badge/2018.03~2021.02-FFFFFF?style=flat-square&logo="/>
 * Samsung SW Academy For Youth (SSAFY), 7th<img src="https://img.shields.io/badge/2022.01~2022.12-FFFFFF?style=flat-square&logo="/>
 </br>
-</div>
+
+## Certificate
+* 정보처리기사 `2020.11.12` 
+* HSAT 정기코딩인증평가 Level3 `2023년 7차`
+</br>
 
 ## Tech Skill
 <table>
@@ -55,17 +47,10 @@
 </p>
 </br>
 
-<!-- 🌊💭ℹ️🆗 -->
-
 ## Algorithm 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=doohui96&theme=warm"/>  -->
 </br>
 
-## Certificate
-* 정보처리기사 `2020.11.12` 
-* HSAT 정기코딩인증평가 Level3 `2023년 7차`
-</br>
-</br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236EBAFF&title_bg=%23D4E3FB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
