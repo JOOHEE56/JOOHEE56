@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joohee56&show_icons=true&theme=default)
 -->
 
-## 🎓 Education 
+## Education 
 <!--  
 <details>
 <summary>버전 정보</summary>
@@ -24,7 +24,7 @@
 </br>
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 <table>
  <tr>
   <td>Backend</td>
