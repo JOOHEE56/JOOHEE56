@@ -24,14 +24,14 @@
   <td><b>Design</b></td>
   <td><img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"> <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma"> </td>
  </tr>
- <tr>
+  <td><b>Etc</b></td>
+  <td><img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat-square&logo=Jira&logoColor=blue"> <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"></td>
+ </tr>
+  <tr>
   <td><b>Experience</b></td>
   <td><img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=464445"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=787878"> <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=C%2B%2B&logoColor=green"> <img src="https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=MyBatis"><img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React"> </td>
  </tr>
  <tr>
-  <td><b>Etc</b></td>
-  <td><img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat-square&logo=Jira&logoColor=blue"> <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"></td>
- </tr>
 </table>
 </br>
 
