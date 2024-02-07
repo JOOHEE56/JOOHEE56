@@ -25,7 +25,7 @@
   <td><img src="https://img.shields.io/badge/Adobe Illustrator-FFFFFF?style=flat-square&logo=Adobe Illustrator"> <img src="https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma"> </td>
  </tr>
   <td><b>Etc</b></td>
-  <td><img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat-square&logo=Jira&logoColor=blue"> <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"></td>
+  <td> <img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat-square&logo=GitLab"> <img src="https://img.shields.io/badge/Jira-FFFFFF?style=flat-square&logo=Jira&logoColor=blue"></td>
  </tr>
   <tr>
   <td><b>Experience</b></td>
