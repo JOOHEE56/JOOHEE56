@@ -10,6 +10,14 @@
 * Samsung SW Academy For Youth (SSAFY), 7th<img src="https://img.shields.io/badge/2022.01~2022.12-FFFFFF?style=flat-square&logo="/>
 </br>
 
+
+## Record
+<p>
+ <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
+</p>
+</br>
+
 ## Tech Skill
 <table>
  <tr>
@@ -35,16 +43,12 @@
 </table>
 </br>
 
-## Record
-<p>
- <a href="https://wngml56.tistory.com/"><img src="https://img.shields.io/badge/Tistory-6EBAFF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-f4eeed?style=flat-square&logo=Notion&logoColor=black"/>
-</p>
-</br>
 
 ## Algorithm 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=doohui96&theme=warm"/>  -->
+</br>
+
 
 <!--
 ## Certificate
