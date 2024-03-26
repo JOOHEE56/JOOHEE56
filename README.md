@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D4E3FB,100:6EBAFF&height=120&section=header&%) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EBAFF,100:D4E3FB&height=120&section=header&%) 
 
 ## Education 
 * Seoul Women's Univ, Digital Media <img src="https://img.shields.io/badge/2018.03~2021.02-FFFFFF?style=flat-square&logo="/>
