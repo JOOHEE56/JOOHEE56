@@ -18,7 +18,7 @@
 ## Record
 https://wngml56.tistory.com/</br>
 </br>
-
+</br>
 
 ## Algorithm 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=doohui96)](https://solved.ac/doohui96)
