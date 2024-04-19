@@ -2,7 +2,7 @@
 * Seoul Women's Univ, Digital Media <img src="https://img.shields.io/badge/2018.03~2021.02-FFFFFF?style=flat-square&logo="/>
 * Samsung SW Academy For Youth (SSAFY), 7th<img src="https://img.shields.io/badge/2022.01~2022.12-FFFFFF?style=flat-square&logo="/>
 </br>
-
+ 
 
 ## Tech Skill
 | Domain | Skill|
