@@ -1,7 +1,6 @@
 ## Record
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/redirect?name=joohuii96&tag=github)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joohuii96)](https://velog-readme-stats.vercel.app/api/redirect?name=joohuii96)
 
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joohuii96&redirect?name=joohuii96)
 </br>
 
 ## Algorithm 
